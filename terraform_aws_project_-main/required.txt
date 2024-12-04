@@ -1,0 +1,11 @@
+Thrilled to share that I've just completed a significant cloud project: deploying a highly available web 
+application on AWS using Terraform. This project was an incredible learning experience, and I'm excited 
+about the robust and scalable infrastructure we’ve built.
+
+📌 Key Highlights:
+1-Utilized an Application Load Balancer (ALB) to distribute traffic across instances within an Auto Scaling 
+Group (ASG), ensuring high availability and reliability.
+2-Implemented a bastion host for secure SSH access to our infrastructure.
+3-Configured S3 for seamless backup storage.
+4-Designed secure network configurations using public and private subnets, and implemented a NAT gateway for 
+secure outbound internet access from private instances.
